@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "783065163164",
+    "project_id": "default-demo-app-2bfc6"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783065163164:android:f6827247d9d8423d",
+        "android_client_info": {
+          "package_name": "com.github.joaogalli.pluris"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783065163164-q7n5hvvfvcrj6hn1821cu67qgkjplmji.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.github.joaogalli.pluris",
+            "certificate_hash": "A0EA788313D128394B09D41D06FED48EC4D91D1E"
+          }
+        },
+        {
+          "client_id": "783065163164-rsf3sr99pje1e3tqjuo8tn2s74hsg0nl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFWSu8fKZGAmMsnNkgV6GrHIRUNeJgp2M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
