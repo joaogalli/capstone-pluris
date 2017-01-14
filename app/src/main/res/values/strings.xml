@@ -2,4 +2,6 @@
     <string name="app_name">Pluris</string>
     <string name="title_activity_subreddit_list">SubredditListActivity</string>
     <string name="action_settings">Settings</string>
+
+    <string name="facebook_app_id">357680724614077</string>
 </resources>
